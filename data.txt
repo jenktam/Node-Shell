@@ -1,0 +1,10 @@
+apples
+apples
+oranges
+pears
+01kiwi
+kiwis
+bananas
+01kiwi
+02kiwi
+25banana
